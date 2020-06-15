@@ -1,0 +1,11 @@
+/* Google Fonts Import */
+@import url("https://fonts.googleapis.com/css?family=Raleway:bold,italic,bolditalic");
+@import url("https://fonts.googleapis.com/css?family=Josefin%20Slab:bold,italic,bolditalic");
+@import url("https://fonts.googleapis.com/css?family=Source%20Code%20Pro:bold,italic,bolditalic");
+
+/* Components */
+@import "components.css";
+
+/* Responsiveness */
+@import "mobile.css" screen and (max-width: 500px);
+@import "tablet.css" screen and (min-width: 501px) and (max-width: 1023px);
