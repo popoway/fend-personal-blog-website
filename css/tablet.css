@@ -19,3 +19,8 @@ footer {
 .blog-post-card {
   max-width: unset;
 }
+
+/* Id Specific */
+#blogPostCards {
+  grid-template-columns: repeat(2, 1fr);
+}
